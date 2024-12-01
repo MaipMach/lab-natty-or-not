@@ -1,8 +1,6 @@
 # Projeto Lab Natty or Not da DIO
 
 
-### Template
-
 # Crawler Tank Futurista
 
 ## 📒 Descrição
