@@ -7,7 +7,7 @@
 Uma imagem de um Crawler Tank feita utilizando IA
 
 ## 🤖 Tecnologias Utilizadas
-Ia generatica da Openart.ai
+Ia generativa da Openart.ai utilizando o model SDXL Film Photography Style
 
 ## 🧐 Processo de Criação
 A imagem foi criada usando um prompt para manter a consistência na imagem e utilizando um modelo de imagem realista
